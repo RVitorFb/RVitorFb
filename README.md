@@ -3,12 +3,6 @@
   <img src="https://github.com/RVitorFb/RVitorFb/blob/main/BANNER.png?raw=true" alt="Banner Raul" width="100%" />
 </p>
 
-<h1 align="center">Raul Vitor Fernandes Bispo</h1>
-<p align="center">
-Estudante de Engenharia de Software | Futuro Desenvolvedor Fullstack JavaScript<br>
-Proativo, colaborativo e sempre em busca de novos aprendizados
-</p>
-
 ---
 
 <div style="background-color:#f0f4f8; padding: 15px; border-radius: 10px;">
