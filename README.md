@@ -3,26 +3,24 @@
   <img src="https://user-images.githubusercontent.com/username/banner-placeholder.png" alt="Banner Raul" width="100%" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou Raul Vitor Fernandes Bispo</h1>
+<h1 align="center">Raul Vitor Fernandes Bispo</h1>
 <p align="center">
-  💻 Estudante de Engenharia de Software | Futuro Fullstack Developer<br>
-  🎯 Proativo, amigável e sempre aprendendo novas tecnologias<br>
-  🚀 Explorando Front-end e mergulhando em Fullstack JavaScript
+Estudante de Engenharia de Software | Futuro Desenvolvedor Fullstack JavaScript<br>
+Proativo, colaborativo e sempre em busca de novos aprendizados
 </p>
 
 ---
 
-<!-- Sobre mim em caixa colorida -->
 <div style="background-color:#f0f4f8; padding: 15px; border-radius: 10px;">
-  <h2>📝 Sobre mim</h2>
+  <h2>Sobre mim</h2>
   <p>
-    Olá! Sou estudante de Engenharia de Software com foco em desenvolvimento Fullstack. Gosto de criar interfaces amigáveis e funcionais, aprender novas tecnologias e colaborar em projetos desafiadores. 
+    Sou estudante de Engenharia de Software com foco em desenvolvimento Fullstack. Tenho experiência em Front-end e estou expandindo minhas habilidades para o desenvolvimento completo em JavaScript. Gosto de criar interfaces funcionais, escrever código limpo e colaborar em projetos que agreguem valor.
   </p>
 </div>
 
 ---
 
-## 🚀 Tecnologias que uso
+## Tecnologias e ferramentas
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -33,7 +31,7 @@
 
 ---
 
-## 📂 Projetos em destaque
+## Projetos em destaque
 <table>
   <tr>
     <th>Projeto</th>
@@ -43,18 +41,18 @@
   <tr>
     <td>Projeto Estoque</td>
     <td>Sistema de controle de estoque simples</td>
-    <td><a href="https://github.com/RVitorFb/Projeto-Estoque" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/RVitorFb/Projeto-Estoque" target="_blank">Repositório</a></td>
   </tr>
   <tr>
     <td>Projeto Altura</td>
     <td>Aplicativo para calcular altura ideal ou proporções</td>
-    <td><a href="https://github.com/RVitorFb/projeto_altura" target="_blank">Ver Repositório</a></td>
+    <td><a href="https://github.com/RVitorFb/projeto_altura" target="_blank">Repositório</a></td>
   </tr>
 </table>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=RVitorFb&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVitorFb&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
@@ -62,7 +60,7 @@
 
 ---
 
-## 📫 Contato & Redes
+## Contato
 <p>
   <a href="https://www.linkedin.com/in/raul-vitor-f-bispo-2743b0232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -78,5 +76,5 @@
 ---
 
 <p align="center">
-⭐ Sempre aberto a colaborações, aprendizados e novos desafios!
+Sempre aberto a colaborações e novos desafios
 </p>
