@@ -1,6 +1,6 @@
 <!-- Banner no topo -->
 <p align="center">
-  <img src="https://github.com/RVitorFb/RVitorFb/blob/main/banner.png?raw=true" alt="Banner Raul" width="100%" />
+  <img src="https://github.com/RVitorFb/RVitorFb/blob/main/BANNER.png?raw=true" alt="Banner Raul" width="100%" />
 </p>
 
 <h1 align="center">Raul Vitor Fernandes Bispo</h1>
