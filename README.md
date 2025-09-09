@@ -38,26 +38,19 @@
   <tr>
     <th>Projeto</th>
     <th>Descrição</th>
-    <th>Tecnologia</th>
+    <th>Link</th>
   </tr>
   <tr>
-    <td>Projeto 1</td>
-    <td>Breve descrição do projeto</td>
-    <td>HTML, CSS, JS</td>
+    <td>Projeto Estoque</td>
+    <td>Sistema de controle de estoque simples</td>
+    <td><a href="https://github.com/RVitorFb/Projeto-Estoque" target="_blank">Ver Repositório</a></td>
   </tr>
   <tr>
-    <td>Projeto 2</td>
-    <td>Breve descrição do projeto</td>
-    <td>Python / JS</td>
-  </tr>
-  <tr>
-    <td>Projeto 3</td>
-    <td>Breve descrição do projeto</td>
-    <td>JavaScript / React</td>
+    <td>Projeto Altura</td>
+    <td>Aplicativo para calcular altura ideal ou proporções</td>
+    <td><a href="https://github.com/RVitorFb/projeto_altura" target="_blank">Ver Repositório</a></td>
   </tr>
 </table>
-
-> ⚡ **Dica**: Quando tiver deploy online, substitua o nome do projeto por um link clicável.
 
 ---
 
