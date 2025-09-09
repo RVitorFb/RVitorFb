@@ -63,8 +63,8 @@
 
 ## 📊 Estatísticas do GitHub
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raulvitorfb&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulvitorfb&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RVitorFb&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVitorFb&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
