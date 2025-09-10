@@ -85,12 +85,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=RVitorFb&show_icons=true&theme=chartreuse-dark&bg_color=00000000" 
     alt="Estatísticas do GitHub" 
-    width="450px" 
+    width="400px" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVitorFb&layout=compact&theme=chartreuse-dark&bg_color=00000000" 
     alt="Linguagens mais usadas" 
-    width="401px" 
+    width="350px" 
   />
 </p>
 
