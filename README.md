@@ -90,7 +90,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVitorFb&layout=compact&theme=chartreuse-dark&bg_color=00000000" 
     alt="Linguagens mais usadas" 
-    width="350px" 
+    width="357px" 
   />
 </p>
 
