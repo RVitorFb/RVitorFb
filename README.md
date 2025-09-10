@@ -30,25 +30,33 @@
 ---
 
 ## Tecnologias e Ferramentas
-<p>
+<p align="center">
   <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=00ff99" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=00ff99" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00ff99" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff99" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=java&logoColor=00ff99" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=00ff99" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-0d0d0d?style=for-the-badge&logo=springboot&logoColor=00ff99" alt="Spring Boot" />
+  <!-- Frameworks / runtimes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
 
   <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00ff99" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff99" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-0d0d0d?style=for-the-badge&logo=gitlab&logoColor=00ff99" alt="GitLab" />
-  <img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visual%20studio%20code&logoColor=00ff99" alt="VS Code" />
-  <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00ff99" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
+
 
 ---
 
